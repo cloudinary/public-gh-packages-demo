@@ -1,1 +1,1 @@
-# public-gh-packages-demo
+# gh-packages-demo

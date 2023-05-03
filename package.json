@@ -1,0 +1,22 @@
+{
+  "name": "@clds/public-gh-packages-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'skipped test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudinary/public-gh-packages-demo.git"
+  },
+  "author": "rashelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudinary/public-gh-packages-demo/issues"
+  },
+  "homepage": "https://github.com/cloudinary/gh-packages-demo#readme",
+  "publishConfig": {
+    "@clds:registry": "https://npm.pkg.github.com"
+  }
+}
